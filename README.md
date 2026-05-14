@@ -19,10 +19,9 @@ By aggregating 67,663 flight routes to the country level and applying graph theo
 
 ---
 
-## 🚀 Live Dashboard
 
 ## 🔗 Live Demo
- ![Dashboard](Dashboard.png.png)
+ ![dashboard](dashboard.png.png)
 ---
 
 ## 🔑 Key Findings
