@@ -1,0 +1,238 @@
+country,airport_count,outgoing_routes,incoming_routes,total_routes,continent
+United States,1512,2503,2498,5001,North America
+United Kingdom,167,2354,2328,4682,Europe
+Germany,249,2140,2124,4264,Europe
+Spain,64,1951,1954,3905,Europe
+France,217,1443,1439,2882,Europe
+Italy,83,1350,1354,2704,Europe
+China,241,1192,1192,2384,Asia
+Russia,264,875,879,1754,Europe
+United Arab Emirates,17,739,729,1468,Middle East
+Canada,430,682,691,1373,North America
+Turkey,76,670,679,1349,Europe
+Japan,123,658,663,1321,Asia
+Greece,55,552,579,1131,Europe
+Netherlands,26,566,562,1128,Europe
+South Korea,29,505,505,1010,Asia
+Mexico,84,484,478,962,North America
+India,148,449,446,895,Asia
+Portugal,35,429,440,869,Europe
+Switzerland,43,419,416,835,Europe
+Singapore,6,408,412,820,Asia
+Belgium,24,411,408,819,Europe
+Saudi Arabia,45,397,409,806,Middle East
+Thailand,50,403,402,805,Asia
+Taiwan,25,385,383,768,Asia
+Austria,20,373,373,746,Europe
+Hong Kong,3,354,354,708,Asia
+Norway,63,341,341,682,Europe
+Poland,41,339,338,677,Europe
+Australia,334,336,320,656,Oceania
+Sweden,77,307,309,616,Europe
+Malaysia,40,307,307,614,Asia
+Ireland,17,291,291,582,Other
+Morocco,22,288,287,575,Africa
+Denmark,31,286,286,572,Europe
+Egypt,24,266,264,530,Africa
+Indonesia,145,220,218,438,Asia
+Brazil,264,200,197,397,South America
+Czech Republic,24,188,189,377,Europe
+Qatar,3,189,188,377,Middle East
+Ukraine,39,185,183,368,Europe
+Croatia,14,182,183,365,Europe
+Tunisia,13,177,180,357,Africa
+Pakistan,54,166,168,334,Asia
+Finland,51,163,164,327,Europe
+Vietnam,25,161,161,322,Asia
+Dominican Republic,14,159,156,315,Other
+Philippines,71,155,154,309,Asia
+Cyprus,5,149,154,303,Other
+Romania,20,151,150,301,Europe
+South Africa,99,149,149,298,Africa
+Israel,17,135,133,268,Middle East
+Kenya,35,133,132,265,Africa
+Algeria,44,130,130,260,Other
+Iran,82,121,123,244,Middle East
+Colombia,75,120,120,240,South America
+Uzbekistan,13,120,119,239,Asia
+Kuwait,3,120,119,239,Middle East
+New Zealand,60,104,134,238,Oceania
+Malta,2,113,113,226,Other
+Jordan,6,110,111,221,Middle East
+Oman,8,108,108,216,Middle East
+Panama,13,108,108,216,Other
+Serbia,6,106,105,211,Europe
+Puerto Rico,10,102,102,204,Other
+Kazakhstan,26,101,101,202,Asia
+Latvia,7,101,101,202,Other
+Sri Lanka,12,101,101,202,Asia
+Hungary,16,100,99,199,Europe
+Tajikistan,4,96,98,194,Other
+Ethiopia,29,95,98,193,Africa
+Argentina,96,89,90,179,South America
+Netherlands Antilles,5,87,85,172,Other
+Bahamas,34,85,86,171,Other
+Bahrain,2,84,86,170,Middle East
+Peru,43,84,83,167,South America
+Bulgaria,13,83,83,166,Europe
+Lithuania,10,80,80,160,Other
+Macau,1,79,79,158,Other
+Iraq,16,76,75,151,Middle East
+Cuba,32,78,72,150,Other
+Bangladesh,10,71,72,143,Asia
+Jamaica,6,72,69,141,Other
+Luxembourg,1,70,70,140,Other
+Azerbaijan,8,69,70,139,Other
+Kyrgyzstan,9,70,68,138,Other
+Lebanon,3,67,66,133,Middle East
+Venezuela,57,66,66,132,Other
+Costa Rica,31,67,64,131,Other
+Senegal,11,66,65,131,Africa
+Cambodia,9,65,65,130,Other
+Nigeria,28,64,63,127,Africa
+Libya,18,63,63,126,Other
+Chile,46,60,59,119,South America
+Yemen,11,58,55,113,Other
+Belarus,12,54,54,108,Other
+Cameroon,10,53,53,106,Africa
+El Salvador,3,53,52,105,Other
+Cote d'Ivoire,8,49,52,101,Other
+Iceland,22,46,47,93,Other
+Armenia,5,46,46,92,Other
+Georgia,5,45,46,91,Other
+Aruba,1,44,46,90,Other
+Ghana,6,44,43,87,Africa
+Honduras,12,44,42,86,Other
+Tanzania,29,42,42,84,Africa
+Ecuador,36,41,43,84,Other
+Burma,43,41,41,82,Other
+Zambia,13,41,40,81,Other
+Benin,3,41,39,80,Other
+Mauritius,2,40,40,80,Other
+Guatemala,10,38,41,79,Other
+Estonia,9,39,39,78,Other
+Fiji,19,41,37,78,Oceania
+Maldives,11,40,37,77,Other
+Jersey,1,38,38,76,Other
+Virgin Islands,3,39,37,76,Other
+Rwanda,3,39,37,76,Other
+Trinidad and Tobago,2,37,38,75,Other
+Cape Verde,7,37,38,75,Other
+Albania,5,36,36,72,Other
+Guam,2,35,35,70,Other
+Nepal,34,35,35,70,Asia
+Congo (Brazzaville),5,34,35,69,Other
+Sudan,18,35,34,69,Other
+Antigua and Barbuda,2,35,34,69,Other
+Moldova,5,34,34,68,Other
+Zimbabwe,16,31,36,67,Other
+Burkina Faso,2,33,33,66,Other
+Slovenia,5,33,33,66,Other
+Angola,25,33,32,65,Other
+Uganda,12,31,30,61,Other
+Laos,14,30,30,60,Other
+Saint Lucia,2,30,28,58,Other
+Afghanistan,22,29,27,56,Other
+Turks and Caicos Islands,6,28,28,56,Other
+Mali,9,28,27,55,Other
+Guadeloupe,7,27,27,54,Other
+Montenegro,2,27,27,54,Other
+Congo (Kinshasa),44,26,27,53,Other
+Uruguay,11,26,26,52,Other
+Gabon,13,25,25,50,Other
+Haiti,6,25,25,50,Other
+Madagascar,43,25,24,49,Other
+Cayman Islands,3,23,25,48,Other
+Bolivia,24,23,24,47,Other
+Barbados,1,23,23,46,Other
+Brunei,2,23,23,46,Other
+Martinique,1,23,23,46,Other
+Mozambique,19,23,23,46,Other
+Reunion,3,22,24,46,Other
+Macedonia,2,23,23,46,Other
+Slovakia,8,23,22,45,Europe
+Sierra Leone,7,22,22,44,Other
+Togo,4,20,21,41,Other
+Djibouti,3,23,17,40,Other
+Bosnia and Herzegovina,4,20,20,40,Other
+Namibia,18,19,19,38,Other
+Guinea,8,18,18,36,Other
+Guernsey,2,18,18,36,Other
+Somalia,9,15,21,36,Other
+Paraguay,9,18,18,36,Other
+Liberia,3,18,18,36,Other
+Dominica,2,17,18,35,Other
+Papua New Guinea,35,17,17,34,Oceania
+Niger,7,17,17,34,Other
+Belize,3,17,17,34,Other
+French Polynesia,44,17,17,34,Other
+British Virgin Islands,3,16,16,32,Other
+Vanuatu,29,16,16,32,Other
+Saint Kitts and Nevis,2,15,16,31,Other
+Malawi,10,15,16,31,Other
+Mayotte,1,15,15,30,Other
+Bermuda,1,15,15,30,Other
+Turkmenistan,5,15,15,30,Other
+Nicaragua,13,15,14,29,Other
+Grenada,1,14,15,29,Other
+Equatorial Guinea,3,14,14,28,Other
+Botswana,16,14,14,28,Other
+Burundi,2,13,14,27,Other
+Gambia,1,13,13,26,Other
+Mongolia,13,13,13,26,Other
+New Caledonia,11,13,13,26,Other
+Mauritania,11,13,12,25,Other
+Seychelles,8,12,12,24,Other
+South Sudan,3,12,12,24,Other
+Isle of Man,1,11,11,22,Other
+Comoros,4,10,10,20,Other
+Suriname,23,10,10,20,Other
+Northern Mariana Islands,3,10,10,20,Other
+Palau,1,10,9,19,Other
+Chad,6,9,10,19,Other
+Guyana,13,9,9,18,Other
+Solomon Islands,24,8,8,16,Other
+Cook Islands,8,8,7,15,Other
+Eritrea,3,7,7,14,Other
+Western Sahara,3,7,7,14,Other
+Kiribati,18,7,7,14,Other
+French Guiana,6,7,7,14,Other
+Guinea-Bissau,3,7,7,14,Other
+Gibraltar,1,6,6,12,Other
+Anguilla,1,6,6,12,Other
+Samoa,3,5,6,11,Other
+Micronesia,4,5,5,10,Other
+North Korea,5,5,5,10,Other
+Bhutan,3,5,5,10,Other
+Tonga,6,5,5,10,Other
+Marshall Islands,8,5,5,10,Other
+Saint Vincent and the Grenadines,5,4,5,9,Other
+East Timor,3,4,4,8,Other
+Faroe Islands,7,4,4,8,Other
+Sao Tome and Principe,2,3,4,7,Other
+Saint Pierre and Miquelon,2,3,3,6,Other
+Greenland,56,3,3,6,Other
+Central African Republic,2,3,3,6,Other
+Nauru,1,3,3,6,Other
+Norfolk Island,1,3,2,5,Other
+Wallis and Futuna,2,2,2,4,Other
+Christmas Island,1,2,2,4,Other
+American Samoa,2,1,1,2,Other
+Cocos (Keeling) Islands,1,1,1,2,Other
+Falkland Islands,2,1,1,2,Other
+Swaziland,2,1,1,2,Other
+Lesotho,3,1,1,2,Other
+Tuvalu,1,1,1,2,Other
+Niue,1,1,0,1,Other
+Johnston Atoll,1,0,0,0,Other
+British Indian Ocean Territory,1,0,0,0,Other
+Antarctica,7,0,0,0,Other
+Midway Islands,1,0,0,0,Other
+Palestine,1,0,0,0,Other
+Montserrat,1,0,0,0,Other
+Myanmar,1,0,0,0,Other
+Saint Helena,1,0,0,0,Other
+Svalbard,2,0,0,0,Other
+Syria,6,0,0,0,Other
+West Bank,1,0,0,0,Other
+Wake Island,1,0,0,0,Other
