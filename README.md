@@ -21,8 +21,8 @@ By aggregating 67,663 flight routes to the country level and applying graph theo
 
 ## 🚀 Live Dashboard
 
-🔗 **[View Live Dashboard](https://share.streamlit.io)** ← replace with your deployed URL
-
+## 🔗 Live Demo
+ ![Dashboard](Dashboard.png.png)
 ---
 
 ## 🔑 Key Findings
